@@ -16,9 +16,11 @@ ul{
     position:relative;
     width: 100%;
     height: 100vh;
-    background-image: url(black-panther-4k-2020-hl-1920x1080.jpg);
+    background-image: url(20220226_125317.jpg);
     background-size:cover;
     background-repeat: no-repeat;
+    padding-right: 30px;
+
 }
 
 .header .navbar{
