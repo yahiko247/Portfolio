@@ -16,10 +16,11 @@ ul{
     position:relative;
     width: 300%;
     height: 200vh;
-    background-image: url(20220226_125317.jpg);
+    background-image: url(image.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     padding-right: 30px;
+
 
 }
 
@@ -33,7 +34,7 @@ ul{
 
 .header .navbar .logo a{
     color:#fff;
-    font-size: 30px;
+    font-size: 35px;
     margin-left: 50px;
 }
 
@@ -43,13 +44,14 @@ ul{
 
 .header .navbar .menu ul li{
     display: inline-block;
-    margin-right: 35px;
+    margin-right: 20px;
     align-items: center;
+    
 }
 
 .header .navbar .menu ul li a{
     color:#fff;
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 500;
     letter-spacing: 1px;
 }
